@@ -1,0 +1,8 @@
+flask
+ultralytics
+opencv-python-headless
+numpy
+requests
+firebase-admin
+google-cloud-pubsub
+gunicorn

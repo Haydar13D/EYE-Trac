@@ -1,0 +1,18 @@
+# Python & Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables & Secrets (NEVER commit these)
+.env
+gcp-key.json
+service_account.json
+
+# Large Model Weights (>100MB GitHub limit)
+yolo11.pt
+
+# Logs & Temporary Detection Captures
+downloaded-logs-*.json
+vandal_*.jpg
